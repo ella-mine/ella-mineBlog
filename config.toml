@@ -1,0 +1,38 @@
+baseurl = "https://cu1ao.github.io"
+languageCode = "zh-hans"
+defaultContentLanguage = "zh"
+title = "a simple Dream"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+disqusShortname = "chitanda-ao"
+
+enableRobotsTXT = true
+
+[params]
+# background = "black"
+  backgroundImage = "/me/background.jpg"
+  linkColor = "seagreen"
+
+  author = "Chitanda"
+  description = "千反田"
+  avatar = "/me/avatar.jpg"
+  motto = "禁止拖延！！"
+  
+  email = "aocui22@outlook.com"
+  github = "Cu1Ao"
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
